@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /
+
+
+User-agent: SiteAuditBot
+Allow: /
+
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/vj-wp-import-export/

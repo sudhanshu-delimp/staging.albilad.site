@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Author Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-15 13:09+0000\n"
+"PO-Revision-Date: 2022-03-16 05:37+0000\n"
+"Last-Translator: صحيفة البلاد\n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.0; wp-5.9.2\n"
+"X-Domain: sbs_author_blog"
+
+#: sidebar/sidebar.php:8
+msgid "Promotion Sidebar One"
+msgstr ""
+
+#: sidebar/sidebar.php:10
+msgid "sbs_promotion_sidebar_one"
+msgstr ""
+
+#: sidebar/sidebar.php:20
+msgid "Promotion Sidebar Two"
+msgstr ""
+
+#: sidebar/sidebar.php:22
+msgid "sbs_promotion_sidebar_two"
+msgstr ""
+
+#: sidebar/sidebar.php:32
+msgid "Promotion Sidebar Three"
+msgstr ""
+
+#: sidebar/sidebar.php:34
+msgid "sbs_promotion_sidebar_three"
+msgstr ""
+
+#: sidebar/sidebar.php:44
+msgid "Promotion Sidebar Four"
+msgstr ""
+
+#: sidebar/sidebar.php:46
+msgid "sbs_promotion_sidebar_four"
+msgstr ""
+
+#: sidebar/sidebar.php:56
+msgid "Promotion Sidebar Five (Category)"
+msgstr ""
+
+#: sidebar/sidebar.php:58
+msgid "sbs_promotion_sidebar_five"
+msgstr ""
+
+#: shortcode/view/archive-post.php:7
+#: shortcode/view/category-sub-section/archive-post.php:24
+#: shortcode/view/post/archive-post.php:7
+#: shortcode/view/articles/archive-post.php:10
+#: shortcode/view/author-list/archive-post.php:13
+#: shortcode/view/author/archive-post.php:15
+#: shortcode/view/author/search-section-post.php:5
+#: shortcode/view/opinion/archive-post.php:13
+#: shortcode/view/trending/archive-post.php:7
+msgid "Load More"
+msgstr "تحميل المزيد"
+
+#: shortcode/view/single-post.php:4
+msgid "OPINION"
+msgstr "رأي"
+
+#: shortcode/view/single-post.php:11
+#: shortcode/view/author-list/single-post.php:23
+#: shortcode/view/author-list/type/single-post-two.php:23
+msgid "Opinion Writer"
+msgstr "كاتب رأي"
+
+#: shortcode/view/single-post.php:33 shortcode/view/post/single-post.php:23
+#: shortcode/view/trending/single-post.php:38
+msgid "View Article"
+msgstr ""
+
+#: shortcode/view/category-sub-section/archive-post.php:12
+#: shortcode/view/post/single-post.php:6
+#: shortcode/view/trending/single-post.php:10
+msgid "Read More"
+msgstr ""
+
+#: shortcode/view/category-sub-section/archive-post.php:31
+#: shortcode/view/articles/archive-post.php:17
+msgid "Sorry, there is no data to display"
+msgstr ""
+
+#: shortcode/view/author-list/single-post.php:7
+#: shortcode/view/author-list/single-post.php:12
+#: shortcode/view/author-list/type/single-post-two.php:7
+msgid "Opinion"
+msgstr "رأي"
+
+#: shortcode/view/author-list/single-post.php:51
+#: shortcode/view/author-list/single-post.php:56
+#: shortcode/view/author-list/type/single-post-two.php:55
+#: shortcode/view/author-list/type/single-post-two.php:60
+msgid "Read Article"
+msgstr "اقرأ المقالات"
+
+#: shortcode/view/news-post-ticker/download-news-paper.php:4
+msgid "Download today's paper"
+msgstr "عرض جريدة اليوم"
+
+#: action/view/menus/exclude_categories.php:4
+msgid "Exclude Categories"
+msgstr ""
+
+#: action/view/menus/exclude_categories.php:19
+msgid "Enter the category Ids with comma separation"
+msgstr ""
+
+#: action/view/menus/exclude_categories.php:23
+msgid "It will remove these categories form the post meta section"
+msgstr ""
+
+#: action/view/menus/upload_news_paper.php:12
+msgid "Upload News Paper"
+msgstr ""
+
+#: action/view/menus/upload_news_paper.php:35
+msgid "Enter news paper link"
+msgstr ""
+
+#: action/view/menus/upload_news_paper.php:47
+msgid "Allowed File Type is : PDF"
+msgstr ""
+
+#: action/view/menus/upload_news_paper.php:59
+msgid "Replace File"
+msgstr ""
+
+#: action/view/menus/upload_news_paper.php:59
+msgid "Select File"
+msgstr ""
+
+#: action/view/menus/upload_news_paper.php:64
+msgid "Remove Document"
+msgstr ""
+
+#: action/view/menus/upload_news_paper.php:75
+msgid "Enter right side logo link"
+msgstr ""
+
+#: action/view/menus/upload_news_paper.php:89
+msgid "Save"
+msgstr ""
+
+#: action/view/menus/news.php:4
+msgid "News"
+msgstr "اخبار محلية"
+
+#: action/view/menus/news.php:4 action/view/menus/paid_article.php:4
+#: action/view/menus/breaking_news.php:4 action/view/menus/corona_virus.php:4
+msgid "Category"
+msgstr ""
+
+#: action/view/menus/apmvp.php:4
+msgid "APMVP Video"
+msgstr ""
+
+#: action/view/menus/apmvp.php:20
+msgid "APMVP Video Playlist Id"
+msgstr ""
+
+#: action/view/menus/apmvp.php:24
+msgid "APMVP Video Player Id"
+msgstr ""
+
+#: action/view/menus/paid_article.php:4
+msgid "Paid Article"
+msgstr ""
+
+#: action/view/menus/breaking_news.php:4
+msgid "Breaking News"
+msgstr ""
+
+#: action/view/menus/corona_virus.php:4
+msgid "Corona Virus"
+msgstr ""
+
+#. Name of the plugin
+msgid "Author Blog"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shows blogs with it author name and image and rest other information."
+msgstr ""
+
+#. Author of the plugin
+msgid "Delimp Technology (sbst)"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "#"
+msgstr ""
