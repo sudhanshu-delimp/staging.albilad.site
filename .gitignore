@@ -1,6 +1,9 @@
 .htaccess
 .htaccess-new
 .htaccess.bk
+wp-config.php
+wp-admin/*
+wp-includes/*
 wp-content/uploads/*
 wp-content/cache/*
 wp-content/backup/
