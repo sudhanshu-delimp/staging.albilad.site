@@ -9,3 +9,4 @@ wp-content/cache/*
 wp-content/backup/
 wp-content/themes/albilad-child
 wp-content/plugins/*
+wp-content/smush-webp/*
